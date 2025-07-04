@@ -1,0 +1,17 @@
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\bin\Debug\net9.0\Client.exe
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\bin\Debug\net9.0\Client.deps.json
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\bin\Debug\net9.0\Client.runtimeconfig.json
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\bin\Debug\net9.0\Client.dll
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\bin\Debug\net9.0\Client.pdb
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\bin\Debug\net9.0\Duende.IdentityModel.dll
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\obj\Debug\net9.0\Client.csproj.AssemblyReference.cache
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\obj\Debug\net9.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\obj\Debug\net9.0\Client.AssemblyInfoInputs.cache
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\obj\Debug\net9.0\Client.AssemblyInfo.cs
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\obj\Debug\net9.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\obj\Debug\net9.0\Client.csproj.Up2Date
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\obj\Debug\net9.0\Client.dll
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\obj\Debug\net9.0\refint\Client.dll
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\obj\Debug\net9.0\Client.pdb
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\obj\Debug\net9.0\Client.genruntimeconfig.cache
+C:\Users\tikom\RiderProjects\Study\TestIdentity\Client\obj\Debug\net9.0\ref\Client.dll
