@@ -1,0 +1,32 @@
+dn: uid=john.doe,ou=users,dc=example,dc=org
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+uid: john.doe
+cn: John Doe
+givenName: John
+sn: Doe
+mail: john.doe@example.org
+userPassword: password123
+uidNumber: 2001
+gidNumber: 1001
+homeDirectory: /home/john.doe
+
+# Офис-менеджер
+dn: uid=jane.smith,ou=users,dc=example,dc=org
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+uid: jane.smith
+cn: Jane Smith
+givenName: Jane
+sn: Smith
+mail: jane.smith@example.org
+userPassword: password123
+uidNumber: 2002
+gidNumber: 1002
+homeDirectory: /home/jane.smith

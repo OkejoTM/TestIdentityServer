@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Client/1.0.0": {
+        "dependencies": {
+          "Duende.IdentityModel": "7.0.0"
+        },
+        "runtime": {
+          "Client.dll": {}
+        }
+      },
+      "Duende.IdentityModel/7.0.0": {
+        "runtime": {
+          "lib/net8.0/Duende.IdentityModel.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Duende.IdentityModel/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h6xvWQi9bASgroNh+6Z/BpSUpKTy/sSuc2l4twi0igSY0X0z7Y8eYMGMHB7trwdT56EGlWeXLA6qAb8VOg8ATA==",
+      "path": "duende.identitymodel/7.0.0",
+      "hashPath": "duende.identitymodel.7.0.0.nupkg.sha512"
+    }
+  }
+}

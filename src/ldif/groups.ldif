@@ -1,0 +1,12 @@
+dn: cn=employees,ou=groups,dc=example,dc=org
+objectClass: top
+objectClass: posixGroup
+cn: employees
+gidNumber: 1001
+
+dn: cn=office-managers,ou=groups,dc=example,dc=org
+objectClass: top
+objectClass: posixGroup
+cn: office-managers
+gidNumber: 1002
+

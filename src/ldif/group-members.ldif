@@ -1,0 +1,11 @@
+dn: cn=employees,ou=groups,dc=example,dc=org
+changetype: modify
+add: memberUid
+memberUid: john.doe
+memberUid: jane.smith
+
+dn: cn=office-managers,ou=groups,dc=example,dc=org
+changetype: modify
+add: memberUid
+memberUid: jane.smith
+

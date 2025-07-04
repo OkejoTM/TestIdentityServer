@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "jT6aouw4Ueo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tikom\\RiderProjects\\Study\\TestAdAuth\\TestAdApi\\TestAdApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tikom\\.nuget\\packages\\duende.identitymodel\\7.0.0\\duende.identitymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\duende.identityserver\\7.2.4\\duende.identityserver.7.2.4.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\duende.identityserver.aspnetidentity\\7.2.4\\duende.identityserver.aspnetidentity.7.2.4.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\duende.identityserver.storage\\7.2.4\\duende.identityserver.storage.7.2.4.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.6\\microsoft.aspnetcore.authentication.jwtbearer.9.0.6.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\9.0.0\\microsoft.aspnetcore.authentication.openidconnect.9.0.0.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\9.0.0\\microsoft.aspnetcore.dataprotection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\microsoft.extensions.apidescription.server\\8.0.0\\microsoft.extensions.apidescription.server.8.0.0.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.1\\microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.0.1\\microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\microsoft.identitymodel.logging\\8.0.1\\microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.0.1\\microsoft.identitymodel.protocols.8.0.1.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.0.1\\microsoft.identitymodel.protocols.openidconnect.8.0.1.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.1\\microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\swashbuckle.aspnetcore\\9.0.1\\swashbuckle.aspnetcore.9.0.1.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.1\\swashbuckle.aspnetcore.swagger.9.0.1.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.1\\swashbuckle.aspnetcore.swaggergen.9.0.1.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.1\\swashbuckle.aspnetcore.swaggerui.9.0.1.nupkg.sha512",
+    "C:\\Users\\tikom\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.0.1\\system.identitymodel.tokens.jwt.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
